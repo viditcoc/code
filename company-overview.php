@@ -51,6 +51,7 @@
                                 <div class="row">
                                     <div class="col-12 col-sm">
                                         <h1>Establishments</h1>
+                                        <br>
                                         <p>Established in 1981, Cosmo Films (A Business of Cosmo First Limited) today is a global leader in speciality films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films.</p>
 
 
@@ -72,17 +73,19 @@
             </section>
             <!--Establishments END-->
 
+            <div class="border-top"></div>
 
             <!-- Founder start -->
 
-            <div class="container">
+            <div class="container mt-5">
                 <div class="row">
                     <div class="col">
                         <img src="img/founder.png" alt="">
                     </div>
-                    <div class="col d-flex align-items-center">
+                    <div class="col d-flex align-items-center mt-3 mt-md-0">
                         <div>
                         <h2 class="display-5">Founder</h2>
+                        <br>
                         <p>Mr. Ashok Jaipuria, a visionary entrepreneur and philanthropist, pioneered BOPP Films manufacturing in India when he set up Cosmo’s first plant in Aurangabad in 1981. He is a renowned industry veteran and has been on the board of several academic and industry institutions like IITs and FICCI.</p>
                         </div>
                     </div>
@@ -97,13 +100,15 @@
                     <div class="container">
 
                         <div class="row">
-                            <div class="col-7">
-                                <div class="mt-4 pt-4"></div>
+                            <div class="col-sm-7">
+                                <div class="mt-5 pt-5"></div>
                                 <div class="mt-5 pt-5"></div>
                                 <h1>Cosmo Today</h1>
+                                <br>
                                 <p>With manufacturing units in India & Korea, Cosmo has a BOPP manufacturing capacity of 200,000 TPA and CPP manufacturing capacity of 9,000 TPA with a sales turnover of around USD 311 Million (INR 21.63 Billion) in FY 2018-2019. Cosmo is the largest BOPP films exporter from India and the world’s largest manufacturer of thermal lamination films.</p>
                                 <div class="mt-5 pt-5"></div>
                                 <div class="mt-5 pt-5"></div>
+                                <div class="mt-2 pt-2"></div>
                             </div>
                         </div>
                         
@@ -120,12 +125,14 @@
                 <div class="row">
                     <div class="col m-3">
                         <h1>Customers</h1>
+                        <br>
                         <p>
                            Apart from a dominant share in the Indian market, Cosmo exports to more than 80 countries worldwide. Cosmo’s customer base includes the leading global flexible packaging and label face stock manufacturers like Amcor, Constantia, Huhtamaki, Avery Dennison etc., 
                         </p>
                     </div>
                     <div class="col m-3">
-                        <div class="mt-4 pt-4"></div>
+                        <div class="mt-3 pt-3"></div>
+                        <br><br>
                         <p>
                            Which service brands like Pepsico, Coca Cola, Unilever, P&G, Britannia, Parle, CP, Reckitt Benckiser, Nestle, Mars etc. Cosmo also has an extensive network of channel partners across the world for distribution of its range of lamination films.
                         </p>
@@ -143,11 +150,13 @@
                     <div class="container">
 
                         <div class="row">
-                            <div class="col-7">
+                            <div class="col-sm-7">
                                 <div class="mt-4 pt-4"></div>
                                 <div class="mt-5 pt-5"></div>
                                 <h1>R&D</h1>
+                                <br>
                                 <p>Cosmo Films has a highly qualified and government recognized R&D team, providing customized innovations for its customers. Cosmo owns multiple patents in India (6) and US (3).</p>
+                                <div class="mt-5 pt-5"></div>
                                 <div class="mt-5 pt-5"></div>
                                 <div class="mt-5 pt-5"></div>
                             </div>
@@ -166,12 +175,14 @@
                 <div class="row">
                     <div class="col m-3">
                         <h1>Certifications</h1>
+                        <br>
                         <p>
                             Cosmo Films is accredited with ISO 9001:2015, ISO 14001:2015 and British Retail Consortium (BRC) certifications.
                         </p>
                     </div>
                     <div class="col m-3">
                         <h1>Awards & Recognition</h1>
+                        <br>
                         <p>
                           Cosmo Films has won several awards for innovation viz. PFFCA, Asia Star, IFCA& SIES, SAP HANA Visionary, SAP ACE etc.
                         </p>

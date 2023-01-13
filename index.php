@@ -199,23 +199,32 @@
             <!-- Worldwide Clientage -->
             <section class="worldwide_Clientage">
                 <div class="row m-0">
-                    <div class="col-1"></div>
+                    <!-- <div class="col-1"></div> -->
                     <div class="col-12 col-lg side1 me-4">
                         <div class="mt-5 pt-lg-5"></div>
-                        <div class="m-0 me-sm-5 pe-sm-5 row">
-                            <div class="col-md-4 col-6 d-flex align-items-center justify-content-center"><img src="img/wc1.png" alt=""></div>
-                            <div class="col-md-4 col-6 d-flex align-items-center justify-content-center"><img src="img/wc2.png" alt=""></div>
-                            <div class="col-md-4 col-6 d-flex align-items-center justify-content-center"><img src="img/wc3.png" alt=""></div>
-                            <div class="col-md-4 col-6 d-flex align-items-center justify-content-center"><img src="img/wc4.png" alt=""></div>
-                            <div class="col-md-4 col-6 d-flex align-items-center justify-content-center"><img src="img/wc5.png" alt=""></div>
-                            <div class="col-md-4 col-6 d-flex align-items-center justify-content-center"><img src="img/wc6.png" alt=""></div>
-                            <div class="col-md-4 col-6 d-flex align-items-center justify-content-center"><img src="img/wc7.png" alt=""></div>
-                            <div class="col-md-4 col-6 d-flex align-items-center justify-content-center"><img src="img/wc8.png" alt=""></div>
-                            <div class="col-md-4 col-6 d-flex align-items-center justify-content-center"><img src="img/wc9.png" alt=""></div>
-                            <div class="col-md-4 col-6 d-flex align-items-center justify-content-center"><img src="img/wc10.png" alt=""></div>
-                            <div class="col-md-4 col-6 d-flex align-items-center justify-content-center"><img src="img/wc11.png" alt=""></div>
+                        <div class="m-0 me-sm-5 pe-sm-5 ourClint row">
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc1.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc2.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc3.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc4.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc5.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc6.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc7.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc8.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc9.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc10.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc11.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc12.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc13.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc14.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc15.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc17.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc18.jpeg" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc19.jpeg" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc20.png" alt=""></div>
+                            <div class="col-md-3 col-6 d-flex align-items-center justify-content-center"><img src="img/wc21.jpeg" alt=""></div>
                         </div>
-                        <div class="mt-5 pt-lg-5"></div>
+                        <div class="mt-3 pt-lg-3"></div>
                     </div>
                     <div class="col-lg-5 side2">
                         <div class="mt-lg-5 mt-3 pt-lg-5"></div>

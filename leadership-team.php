@@ -43,11 +43,11 @@
             <div class="container">
                 <div class="mt-4 pt-4"></div>
                 <div class="mt-5 pt-5"></div>
-                <div class="row">
-                    <div class="col m-3">
+                <div class="row d-flex flex-wrap">
+                    <div class="col-11 col-sm m-3">
                         <h1>COSMO FILMS <br> LEADERSHIP TEAM</h1>
                     </div>
-                    <div class="col m-3">
+                    <div class="col-11 col-sm m-3">
                         <p>
                         Established in 1981, Cosmo Films (A Business of Cosmo First Limited) today is a global leader in speciality films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films.
                         </p>
@@ -61,57 +61,57 @@
 
 
             <!-- Doctors team line 1 start -->
-            <div class="container d-flex aline-item-center">
-                <div class="col-6 d-flex aline-item-center">
-                    <div class="col-6">
+            <div class="container d-flex flex-wrap aline-item-center">
+                <div class="col-12 col-md-6 d-flex flex-wrap aline-item-center">
+                    <div class="col-12 col-md-5">
                         <img class="isize" src="img/dr1.png" alt="">
                     </div>
-                    <div class="col-1"></div>
-                    <div class="col-6">
+
+                    <div class="pt-4 pt-sm-0 col-12 col-md-7 pWrap">
                         <h4>Mr. Pankaj Poddar</h4>
                         <p>
-                            Group CEO - Cosmo Films, <br>
-                            Cosmo Ferrites, Cosmo <br>
-                            Specialty Chemicals, and <br>
+                            Group CEO - Cosmo Films, 
+                            Cosmo Ferrites, Cosmo 
+                            Specialty Chemicals, and 
                             Zigly
                             <br>
                             <br>
-                            Experience - Over 26 years of <br>
-                            experience in finance, advisory <br>
+                            Experience - Over 26 years of 
+                            experience in finance, advisory 
                             and various leadership roles.
                             <br>
                             <br>
-                            Education - Bachelor of <br>
-                            Commerce (Honors) from <br>
-                            SRCC, qualified Chartered <br>
-                            Accountant and diploma in <br>
+                            Education - Bachelor of 
+                            Commerce (Honors) from 
+                            SRCC, qualified Chartered 
+                            Accountant and diploma in
                             management.
                             <br>
                             <a href="#">Read More</a>
 
                         </p>
                     </div>
-                    <div class="col-1"></div>
+                    
                 </div>
-                <div class="col-6 d-flex aline-item-center">
-                    <div class="col-6">
+                <div class="col-12 col-md-6 d-flex flex-wrap aline-item-center">
+                    <div class="col-12 col-md-5">
                         <img class="isize" src="img/dr2.png" alt="">
                     </div>
-                    <div class="col-1"></div>
-                    <div class="col-6">
+                    
+                    <div class="pt-4 pt-sm-0 col-12 col-md-7 pWrap">
                         <h4>Mr. Sanjay Chincholikar</h4>
                         <p>
-                            Head - Operations (India <br>
+                            Head - Operations (India
                             Films Business)
                             <br><br>
-                            Experience - Over 30 years of <br>
-                            experience in the fields of <br>
-                            manufacturing, engineering, <br>
+                            Experience - Over 30 years of 
+                            experience in the fields of 
+                            manufacturing, engineering, 
                             projects and quality control.
                             <br><br>
-                            Education - Mechanical engineer <br>
-                            and Bachelor of Commerce <br>
-                            graduate. A post graduate in <br>
+                            Education - Mechanical engineer 
+                            and Bachelor of Commerce 
+                            graduate. A post graduate in 
                             Sales and Marketing.
                             <br><br><br>
                             <a href="#">Read More</a>
@@ -123,62 +123,62 @@
             <!-- Doctors team line 1 end -->
 
             
-             <div class="mt-5 pt-5"></div>
+             <div class="d-none d-sm-block mt-5 pt-5"></div>
 
             <!-- Doctors team line 2 start -->
-            <div class="container d-flex aline-item-center">
-                <div class="col-6 d-flex aline-item-center">
-                    <div class="col-6">
+            <div class="container flex-wrap d-flex aline-item-center">
+                <div class="col-12 col-md-6 d-flex flex-wrap aline-item-center">
+                    <div class="col-12 col-md-5">
                         <img class="isize" src="img/dr3.png" alt="">
                     </div>
-                    <div class="col-1"></div>
-                    <div class="col-6">
+                    
+                    <div class="pt-4 pt-sm-0 col-12 col-md-7 pWrap">
                         <h4>Mr. Neeraj Jain</h4>
                         <p>
-                            Group Chief Financial <br>
+                            Group Chief Financial 
                             Officer
                             <br><br>
                             Experience - Over 17 year of
-                            <br>
+                            
                             experience in working With
-                            <br>
+                            
                             large manufacturing and service
-                            <br>
+                            
                             industries.
                             <br><br>
                             Education - Bachelor of
-                            <br> Commerce from
-                            <br>DU and a qualified Chartered
-                            <br>Accountant.
+                             Commerce from
+                            DU and a qualified Chartered
+                            Accountant.
                             <br><br><br>
 
                             <a href="#">Read More</a>
 
                         </p>
                     </div>
-                    <div class="col-1"></div>
+                    
                 </div>
-                <div class="col-6 d-flex aline-item-center">
-                    <div class="col-6">
+                <div class="col-12 col-md-6 d-flex flex-wrap aline-item-center">
+                    <div class="col-12 col-md-5">
                         <img class="isize" src="img/dr4.png" alt="">
                     </div>
-                    <div class="col-1"></div>
-                    <div class="col-6">
+                    
+                    <div class="pt-4 pt-sm-0 col-12 col-md-7 pWrap">
                         <h4>Mr. Kulbhushan Malik</h4>
                         <p>
-                            Global Business Head -<br>
+                            Global Business Head -
                             Cosmo Films
                             <br>
                             <br>
-                            Experience - Over 20 years of<br>
-                            experience in the areas of<br>
-                            Business & Strategy<br>
-                            Management, Sales and<br>
+                            Experience - Over 20 years of
+                            experience in the areas of
+                            Business & Strategy
+                            Management, Sales and
                             Financial management.<br>
                             <br>
-                            Education - B.Com (H) from<br>
-                            SRCC, a qualified Chartered<br>
-                            Accountant and holds a diploma<br>
+                            Education - B.Com (H) from
+                            SRCC, a qualified Chartered
+                            Accountant and holds a diploma
                             in management.<br>
                             <br>                            
                             <a href="#">Read More</a>
@@ -190,60 +190,60 @@
             <!-- Doctors team line 2 end -->
 
 
-            <div class="mt-5 pt-5"></div>
+            <div class="d-none d-sm-block mt-5 pt-5"></div>
 
             <!-- Doctors team line 3 start -->
-            <div class="container d-flex aline-item-center">
-                <div class="col-6 d-flex aline-item-center">
-                    <div class="col-6">
+            <div class="container flex-wrap d-flex aline-item-center">
+                <div class="col-12 col-md-6 d-flex flex-wrap aline-item-center">
+                    <div class="col-12 col-md-5">
                         <img class="isize" src="img/dr5.png" alt="">
                     </div>
-                    <div class="col-1"></div>
-                    <div class="col-6">
+                    
+                    <div class="pt-4 pt-sm-0 col-12 col-md-7 pWrap">
                         <h4>Justin Glass</h4>
                         <p>
                             President North America -
-                            <br>Cosmo Films
+                            Cosmo Films
                             <br><br>
                             Experience - Over 25 years of
-                            <br>experience and expertise in
-                            <br>plastics and packaging
+                            experience and expertise in
+                            plastics and packaging
                             <br><br>
                             Education - Justin holds an
-                            <br>MBA and has worked on the
-                            <br>commercial & finance side of
-                            <br>the business for the last 15
-                            <br>years for large multinational
-                            <br>packaging manufacturers
-                            <br>serving the food, consumer
-                            <br>packaging, pharmaceutical &
-                            <br>medical packaging verticals.
+                            MBA and has worked on the
+                            commercial & finance side of
+                            the business for the last 15
+                            years for large multinational
+                            packaging manufacturers
+                            serving the food, consumer
+                            packaging, pharmaceutical &
+                            medical packaging verticals.
                             <br>
                             <br>
                             <a href="#">Read More</a>
 
                         </p>
                     </div>
-                    <div class="col-1"></div>
+                    
                 </div>
-                <div class="col-6 d-flex aline-item-center">
-                    <div class="col-6">
+                <div class="col-12 col-md-6 d-flex flex-wrap aline-item-center">
+                    <div class="col-12 col-md-5">
                         <img class="isize" src="img/dr6.png" alt="">
                     </div>
-                    <div class="col-1"></div>
-                    <div class="col-6">
+                    
+                    <div class="pt-4 pt-sm-0 col-12 col-md-7 pWrap">
                         <h4>Ms. Ashima Roona</h4>
                         <p>
                             Vice President - Human
-                            <br>Resources
+                            Resources
                             <br>
-                            <br>Experience - Over 16 years of
-                            <br>experience in different Human
-                            <br>Resource Verticals.
+                            Experience - Over 16 years of
+                            experience in different Human
+                            Resource Verticals.
                             <br><br>
                             Education - MBA (PGDPM) from
-                            <br>XISS, Ranchi and graduate from
-                            <br>Jesus and Mary College, DU.
+                            XISS, Ranchi and graduate from
+                            Jesus and Mary College, DU.
                             <br><br><br><br>
                             <a href="#">Read More</a>
 

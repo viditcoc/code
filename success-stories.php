@@ -43,11 +43,11 @@
             <div class="container">
                 <div class="mt-4 pt-4"></div>
                 <div class="mt-5 pt-5"></div>
-                <div class="row">
-                    <div class="col m-3">
-                        <h1>OUR Success Stories</h1>
+                <div class="row d-flex flex-wrap">
+                    <div class="col-11 col-sm m-3">
+                        <h1>OUR SUCCESS STORIES</h1>
                     </div>
-                    <div class="col m-3">
+                    <div class="col-11 col-sm m-3">
                         <p>
                             Established in 1981, Cosmo Films (A Business of Cosmo First Limited) today is a global leader in speciality films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films.
 
@@ -63,9 +63,9 @@
 
             <!-- cards start -->
             <div class="container">
-                <div class="row d-flex d-flex justify-content-between">
-                    <div class="col-6 p-4 bg-white">
-                        <div>
+                <div class="row d-flex sscard">
+                    <div class="col-12 col-sm-6">
+                        <div class="bg-white p-4">
                             <img src="img/sscard1.jpg" alt="">
                             <br><br>
                             <h5>Recyclable Laminate For Tea Packaging</h5>
@@ -75,8 +75,8 @@
                         </div>
                     </div>
 
-                     <div class="col-6 p-4 bg-white">
-                        <div>
+                     <div class="col-12 mt-4 mt-sm-0 col-sm-6">
+                        <div class="bg-white p-4">
                             <img src="img/sscard2.jpg" alt="">
                             <br><br>
                             <h5>Recyclable Laminate For Tea Packaging</h5>
@@ -87,9 +87,9 @@
                     </div>
                 </div>
 
-                <div class="row mt-4 d-flex d-flex justify-content-between">
-                    <div class="col-6 p-4 bg-white">
-                        <div>
+                <div class="row mt-4 d-flex sscard">
+                    <div class="col-12 col-sm-6">
+                        <div class="p-4 bg-white">
                             <img src="img/sscard3.jpg" alt="">
                             <br><br>
                             <h5>Recyclable Laminate For Tea Packaging</h5>
@@ -109,8 +109,8 @@
 
 
 
-
-            
+            <div class="mt-5 pt-5"></div>
+            <div class="mt-5 pt-5"></div>            
             <div class="mt-5 pt-5"></div>
         </div>
     </div>

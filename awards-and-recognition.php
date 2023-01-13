@@ -13,7 +13,7 @@
  
 </head>
 
-<body class="standard-view " style="background: var(--white);">
+<body class="standard-view bg-light" style="background: var(--white);">
     
     <?php include 'includes/header.php'  ?>
 
@@ -27,8 +27,8 @@
                             <div class="col">
                                 <div class="mt-4 pt-4"></div>
                                 <div class="mt-5 pt-5"></div>
-                                <p>Home / About us / Awards & Recognition</p>
-                                <h2>AWARDS & RECOGNITION</h2>
+                                <p>Home / About us / Awards & Recognitions</p>
+                                <h2>AWARDS & RECOGNITIONS</h2>
                                 <div class="mt-5 pt-5"></div>
                                 <div class="mt-4 pt-4"></div>
                             </div>
@@ -39,9 +39,9 @@
                 </div>
 
             
-            <div class="container-flued bg-light">
+            
                 <!-- Registration Certificate start -->
-                <div class="container mt-5">
+                <div class="container registrationT1 mt-5">
                     <div class="p-5 bg-white ">
                         <h5 class="text-danger">ISO 9001: 2015 : Registration Certificate</h5>
                         <p>
@@ -67,25 +67,25 @@
 
                 <div class="container mt-5">
                     <div class="row d-flex justify-content-center aline-item-center cardBorder">
-                        <div class="col-4">
+                        <div class="col-12 pb-5 col-sm-4">
                             <img src="img/certificate1.jpg" alt="">
                         </div>
-                        <div class="col-4">
+                        <div class="col-12 pb-5 col-sm-4">
                             <img src="img/certificate2.jpg" alt="">
                         </div>
-                        <div class="col-4">
+                        <div class="col-12 pb-5 col-sm-4">
                             <img src="img/certificate3.jpg" alt="">
                         </div>
                     </div>
-                    <div class="mt-5 pt-5"></div>
+                    <div class="d-none d-sm-block mt-3 pt-3"></div>
                     <div class="row d-flex justify-content-center aline-item-center cardBorder">
-                        <div class="col-4">
+                        <div class="col-12 pb-5 col-sm-4">
                             <img src="img/certificate4.jpg" alt="">
                         </div>
-                        <div class="col-4">
+                        <div class="col-12 pb-5 col-sm-4">
                             <img src="img/certificate5.jpg" alt="">
                         </div>
-                        <div class="col-4">
+                        <div class="col-12 pb-5 col-sm-4">
                             <img src="img/certificate6.jpg" alt="">
                         </div>
                     </div>
@@ -125,7 +125,7 @@
                         </ul>
                     </div>
                 </div>
-            </div>
+            
 
 
 

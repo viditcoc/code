@@ -43,14 +43,13 @@
             <div class="container">
                 <div class="mt-4 pt-4"></div>
                 <div class="mt-5 pt-5"></div>
-                <div class="row">
-                    <div class="col m-3">
+                <div class="row d-flex flex-wrap">
+                    <div class="col-11 col-sm m-3">
                         <h1>WHAT THEY <br>SAY ABOUT US</h1>
                     </div>
-                    <div class="col m-3">
+                    <div class="col-11 col-sm m-3">
                         <p>
                             Established in 1981, Cosmo Films (A Business of Cosmo First Limited) today is a global leader in speciality films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films.
-
                         </p>
                     </div>
                     <div class="mt-5 pt-5"></div>
@@ -66,96 +65,114 @@
 
                 <!-- row1 start -->
                 <!-- cards1 start -->
-                <div class="row d-flex justify-content-between mb-5">
-                    <div class="col-6 mr-3 shadow-sm p-5  bg-white rounded">
-                        <div class="testimonialCard">
-                            <img src="img/ticon1.jpg" alt="">
-                            <div>
-                                <h5>Esther Hills</h5>
-                                <p>Lead Intranet Technician</p>
+                <div class="row d-flex justify-content-between mb-sm-5">
+                    <div class="col-12 pb-4 pb-sm-0 col-sm">
+                        <div class="testimonialCol">
+                            <div class="testimonialCard">
+                                <img src="img/ticon1.jpg" alt="">
+                                <div>
+                                    <h5>Esther Hills</h5>
+                                    <p>Lead Intranet Technician</p>
+                                </div>
                             </div>
-                        </div>
-
-                        <div class="mt-3">
-                            <p>Omnis totam molestiae delectus nemo alias nesciunt harum et. Nobis dolorum excepturi quod vel. Sunt est qui ab non dolores repellat rem impedit dolores. Ut ea rerum cum eum. Alias dolores tempore illo accusantium est et voluptatem voluptas.</p>
+                            <div class="mt-3">
+                                <p>Omnis totam molestiae delectus nemo alias nesciunt harum et. Nobis dolorum excepturi quod vel. Sunt est qui ab non dolores repellat rem impedit dolores. Ut ea rerum cum eum. Alias dolores tempore illo accusantium est et voluptatem voluptas.</p>
+                            </div>
                         </div>
                     </div>
-                    <!-- cards2 start -->
-                    <div class="col-6 ml-3 shadow-sm p-5  bg-white rounded">
-                        <div class="testimonialCard">
-                            <img src="img/ticon2.jpg" alt="">
-                            <div>
-                                <h5>Ethel Johnston</h5>
-                                <p>Human Directives Director</p>
-                            </div>
-                        </div>
 
-                        <div class="mt-3">
-                            <p>Fuga et debitis numquam omnis sed explicabo rem. Temporibus aut earum harum sint enim quia sit. Odit blanditiis illum amet doloribus adipisci corrupti explicabo. Qui non omnis eum consequatur voluptas aut ut dolor aut.</p>
+
+                    <div class="d-none d-sm-block col-1"></div>
+                    <!-- cards2 start -->
+                    <div class="col-12 pb-4 pb-sm-0 col-sm">
+                        <div class="testimonialCol">
+                            <div class="testimonialCard">
+                                <img src="img/ticon2.jpg" alt="">
+                                <div>
+                                    <h5>Ethel Johnston</h5>
+                                    <p>Human Directives Director</p>
+                                </div>
+                            </div>
+
+                            <div class="mt-3">
+                                <p>Fuga et debitis numquam omnis sed explicabo rem. Temporibus aut earum harum sint enim quia sit. Odit blanditiis illum amet doloribus adipisci corrupti explicabo. Qui non omnis eum consequatur voluptas aut ut dolor aut.</p>
+                                
+                            </div>
                         </div>
                     </div>
                 </div>
 
                 <!-- row2 start -->
                 <!-- cards3 start -->
-                <div class="row d-flex justify-content-between mb-5">
-                    <div class="col-6 mr-3 shadow-sm p-5  bg-white rounded">
-                        <div class="testimonialCard">
-                            <img src="img/ticon1.jpg" alt="">
-                            <div>
-                                <h5>Esther Hills</h5>
-                                <p>Lead Intranet Technician</p>
+                <div class="row d-flex justify-content-between mb-sm-5">
+                    <div class="col-12 pb-4 pb-sm-0 col-sm">
+                        <div class="testimonialCol">
+                            <div class="testimonialCard">
+                                <img src="img/ticon1.jpg" alt="">
+                                <div>
+                                    <h5>Esther Hills</h5>
+                                    <p>Lead Intranet Technician</p>
+                                </div>
                             </div>
-                        </div>
 
-                        <div class="mt-3">
-                            <p>Omnis totam molestiae delectus nemo alias nesciunt harum et. Nobis dolorum excepturi quod vel. Sunt est qui ab non dolores repellat rem impedit dolores. Ut ea rerum cum eum. Alias dolores tempore illo accusantium est et voluptatem voluptas.</p>
+                            <div class="mt-3">
+                                <p>Omnis totam molestiae delectus nemo alias nesciunt harum et. Nobis dolorum excepturi quod vel. Sunt est qui ab non dolores repellat rem impedit dolores. Ut ea rerum cum eum. Alias dolores tempore illo accusantium est et voluptatem voluptas.</p>
+                            </div>
                         </div>
                     </div>
-                    <!-- cards4 start -->
-                    <div class="col-6 ml-3 shadow-sm p-5  bg-white rounded">
-                        <div class="testimonialCard">
-                            <img src="img/ticon2.jpg" alt="">
-                            <div>
-                                <h5>Ethel Johnston</h5>
-                                <p>Human Directives Director</p>
-                            </div>
-                        </div>
 
-                        <div class="mt-3">
-                            <p>Fuga et debitis numquam omnis sed explicabo rem. Temporibus aut earum harum sint enim quia sit. Odit blanditiis illum amet doloribus adipisci corrupti explicabo. Qui non omnis eum consequatur voluptas aut ut dolor aut.</p>
+                    <div class="d-none d-sm-block col-1"></div>
+                    <!-- cards4 start -->
+                    <div class="col-12 pb-4 pb-sm-0 col-sm">
+                        <div class="testimonialCol">
+                            <div class="testimonialCard">
+                                <img src="img/ticon2.jpg" alt="">
+                                <div>
+                                    <h5>Ethel Johnston</h5>
+                                    <p>Human Directives Director</p>
+                                </div>
+                            </div>
+
+                            <div class="mt-3">
+                                <p>Fuga et debitis numquam omnis sed explicabo rem. Temporibus aut earum harum sint enim quia sit. Odit blanditiis illum amet doloribus adipisci corrupti explicabo. Qui non omnis eum consequatur voluptas aut ut dolor aut.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
 
                 <!-- row3 start -->
                 <!-- cards5 start -->
-                <div class="row d-flex justify-content-between mb-5">
-                    <div class="col-6 mr-3 shadow-sm p-5  bg-white rounded">
-                        <div class="testimonialCard">
-                            <img src="img/ticon1.jpg" alt="">
-                            <div>
-                                <h5>Esther Hills</h5>
-                                <p>Lead Intranet Technician</p>
+                <div class="row d-flex justify-content-between mb-sm-5">
+                    <div class="col-12 pb-4 pb-sm-0 col-sm">
+                        <div class="testimonialCol">
+                            <div class="testimonialCard">
+                                <img src="img/ticon1.jpg" alt="">
+                                <div>
+                                    <h5>Esther Hills</h5>
+                                    <p>Lead Intranet Technician</p>
+                                </div>
                             </div>
-                        </div>
 
-                        <div class="mt-3">
-                            <p>Omnis totam molestiae delectus nemo alias nesciunt harum et. Nobis dolorum excepturi quod vel. Sunt est qui ab non dolores repellat rem impedit dolores. Ut ea rerum cum eum. Alias dolores tempore illo accusantium est et voluptatem voluptas.</p>
+                            <div class="mt-3">
+                                <p>Omnis totam molestiae delectus nemo alias nesciunt harum et. Nobis dolorum excepturi quod vel. Sunt est qui ab non dolores repellat rem impedit dolores. Ut ea rerum cum eum. Alias dolores tempore illo accusantium est et voluptatem voluptas.</p>
+                            </div>
                         </div>
                     </div>
+                    <div class="d-none d-sm-block col-1"></div>
                     <!-- cards6 start -->
-                    <div class="col-6 ml-3 shadow-sm p-5  bg-white rounded">
-                        <div class="testimonialCard">
-                            <img src="img/ticon2.jpg" alt="">
-                            <div>
-                                <h5>Ethel Johnston</h5>
-                                <p>Human Directives Director</p>
+                    <div class="col-12 pb-4 pb-sm-0 col-sm">
+                        <div class="testimonialCol">
+                            <div class="testimonialCard">
+                                <img src="img/ticon2.jpg" alt="">
+                                <div>
+                                    <h5>Ethel Johnston</h5>
+                                    <p>Human Directives Director</p>
+                                </div>
                             </div>
-                        </div>
 
-                        <div class="mt-3">
-                            <p>Fuga et debitis numquam omnis sed explicabo rem. Temporibus aut earum harum sint enim quia sit. Odit blanditiis illum amet doloribus adipisci corrupti explicabo. Qui non omnis eum consequatur voluptas aut ut dolor aut.</p>
+                            <div class="mt-3">
+                                <p>Fuga et debitis numquam omnis sed explicabo rem. Temporibus aut earum harum sint enim quia sit. Odit blanditiis illum amet doloribus adipisci corrupti explicabo. Qui non omnis eum consequatur voluptas aut ut dolor aut.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -169,7 +186,7 @@
 
 
 
-            
+            <div class="mt-5 pt-5"></div>
             <div class="mt-5 pt-5"></div>
         </div>
     </div>

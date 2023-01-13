@@ -22,6 +22,7 @@
     --gray: #2A2B2A;
     --red: #CF1933;
     --lightgray: #F5F5F5;
+    --mediumgray: rgb(103, 103, 103);
 }
 
 body {
@@ -2252,6 +2253,12 @@ footer a:hover {
     .latestNews .newcontainer{
     height: auto;
 }
+
+.pWrap{
+    padding:0 60px;
+
+}
+
 }
 
 /* ============ mob view end ============ */
@@ -2376,22 +2383,28 @@ footer a:hover {
     padding: 0!important;
 }
 
-.col-6 img{
+.milestoneImg{
     width: 100%;
 }
 
 .isize{
-    height: 400px;
+    width: 100%;
 }
 
 .cardBorder div img{
-    border: 10px solid white;
+    border: 30px solid white;
     border-radius: 10px;
+    width: 100%;
+}
+
+.registrationT1{
+    color: var(--mediumgray);
 }
 
 .liLight ul li{
-    color: #2A2B2A;
+    color: var(--mediumgray);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 10px;
 }
 
 .pf-card div img{
@@ -2404,12 +2417,15 @@ footer a:hover {
     border-left: 5px solid red;
     padding: 2px;
     display: flex;
-    
-    
-
 }
+
 .pf-cardTitle p{
     margin: 5px 10px;
+}
+
+.testimonialCol{
+    padding: 30px;
+    box-shadow: 1px 1px 22px #00000014;
 }
 
 .testimonialCard{
@@ -2431,4 +2447,22 @@ footer a:hover {
 .testimonialCard div {
     margin: 0 10px ;   
     align-items: center;
+}
+
+.sscard img{
+    width: 100%;
+}
+
+.pWrap{
+    padding:0 60px;
+
+}
+
+/* index page our clint  */
+.ourClint div{
+}
+
+.ourClint div img{
+    height: 65px;
+    margin-left: 20px;
 }
