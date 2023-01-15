@@ -74,7 +74,7 @@
             <span class="footer-title">Supplier</span>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Become a Supplier</a>
+            <a class="nav-link" href="become-a-supplier.php">Become a Supplier</a>
           </li>
         </ul>
       </div>
@@ -121,7 +121,6 @@
   </div>
 </footer>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 
 
 

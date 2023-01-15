@@ -6,7 +6,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
         </div>
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="index.php">
           <img src="img/cosmo_logo.svg" alt="">
       </a>
       <div id="searchSite" class="">        
@@ -69,7 +69,7 @@
             <a class="nav-link" href="#">Media</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link" href="contact-us.php">Contact</a>
           </li>
         
         </ul>
