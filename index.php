@@ -38,10 +38,10 @@
             <!--BANNER SLIDER -->
             <section class="cosmo-slider ">
                 <div class="row m-0 ">
-                    <div class="bg">
+                    <div class="bg col-auto">
                         <img src="img/bn1.jpg" alt="" class="opacity-0">
                     </div>
-                    <div class="col-lg-7 mt-sm-5 mt-lg-0">
+                    <div class="col mt-sm-5 mt-lg-0">
                         <div class="col-12 h-100">
                             <div class="align-items-center h-100 row">
                                 <div class="col-1">&nbsp;
