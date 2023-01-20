@@ -59,13 +59,13 @@
             <div class="container border-bottom">
                 <ul class="nav navTabs d-flex justify-content-center" id="myTab" role="tablist">
                     <li class="nav-item" role="presentation">
-                        <button class="navLink active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">ENVIRONMENT</button>
+                        <a class="navLink active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane"  role="tab" aria-controls="home-tab-pane" aria-selected="true">ENVIRONMENT</a>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="navLink" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane" type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false">SOCIAL</button>
+                        <a class="navLink" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane"  role="tab" aria-controls="profile-tab-pane" aria-selected="false">SOCIAL</a>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="navLink" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact-tab-pane" type="button" role="tab" aria-controls="contact-tab-pane" aria-selected="false">GOVERNANCE</button>
+                        <a class="navLink" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact-tab-pane"  role="tab" aria-controls="contact-tab-pane" aria-selected="false">GOVERNANCE</a>
                     </li>
                 </ul>
             </div>

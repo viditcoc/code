@@ -18,8 +18,8 @@
 
         <div class="searchInput d-none d-sm-block" >
           <form class="d-flex headerInput" >
-              <input class="form-control form-control-sm me-2" type="search" placeholder="Search" aria-label="Search">
-              <a href="search-result.php">
+              <input class="form-control form-control-sm me-2" type="text" placeholder="Search" >
+              <a href="search-result.php"  class="">
                 <img class="srB" src="img/icon-search.png" alt="">   
               </a>
             </form>
@@ -101,3 +101,6 @@
     </div>
   </nav>
 </header>  
+
+
+ 
