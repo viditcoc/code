@@ -55,14 +55,16 @@
             </div>
             <!-- OUR Success Stories end -->
 
+            <div class="pt-5 mt-5"></div>
+
+
 
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4 col-12">
-                        <img src="img/sptree.jpg" alt="">
+                        <img class="fullWidth" src="img/sptree.jpg" alt="">
                     </div>
-                    <div class="d-none d-sm-block col-1"></div>
-                    <div class="col-sm-7 col-12">
+                    <div class="col-sm-8 ps-5 pt-5 pt-sm-0 col-12">
                         <h5 class="text-danger">
                             Manufacturing Practices
                         </h5>
@@ -71,11 +73,61 @@
                             Cosmo Films is committed to environmentally friendly and socially responsible manufacturing processes. Cosmo strives to establish a sustainable manufacturing model by:
                             <br><br>
                             <ul>
-                                <li class="mt-3">Continuous quality improvements and adherence to a right-first-time policy </li>
-                                <li class="mt-3">Close monitoring of utilities consumption to optimize their usage </li>
-                                <li class="mt-3">Regeneration of waste/scrap material to be used as input for production </li>
-                                <li class="mt-3">Recycling of paper cores and use of plastic and aluminum cores for in-house requirements, resulting in reduced use of paper core </li>
-                                <li class="mt-3">Partnering with customers for packaging structure rationalization to reduce material consumption</li>
+                                <li class="mt-3 text-black-50">Continuous quality improvements and adherence to a right-first-time policy </li>
+                                <li class="mt-3 text-black-50">Close monitoring of utilities consumption to optimize their usage </li>
+                                <li class="mt-3 text-black-50">Regeneration of waste/scrap material to be used as input for production </li>
+                                <li class="mt-3 text-black-50">Recycling of paper cores and use of plastic and aluminum cores for in-house requirements, resulting in reduced use of paper core </li>
+                                <li class="mt-3 text-black-50">Partnering with customers for packaging structure rationalization to reduce material consumption</li>
+                            </ul>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="pt-5 mt-5"></div>
+
+                <div class="row">
+                    <div class="col-sm-4 col-12">
+                        <img class="fullWidth" src="img/spplus.jpg" alt="">
+                    </div>
+                    <div class="col-sm-8 ps-5 pt-5 pt-sm-0 col-12">
+                        <h5 class="text-danger">
+                            Environment, Health and Safety
+                        </h5>
+                        <br>
+                        <p class="text-black-50">
+                            Cosmo Films is committed to environmentally friendly and socially responsible manufacturing processes. Cosmo strives to establish a sustainable manufacturing model by:
+                            <br><br>
+                            <ul>
+                                <li class="mt-3 text-black-50">Continuous quality improvements and adherence to a right-first-time policy </li>
+                                <li class="mt-3 text-black-50">Close monitoring of utilities consumption to optimize their usage </li>
+                                <li class="mt-3 text-black-50">Regeneration of waste/scrap material to be used as input for production </li>
+                                <li class="mt-3 text-black-50">Recycling of paper cores and use of plastic and aluminum cores for in-house requirements, resulting in reduced use of paper core </li>
+                                <li class="mt-3 text-black-50">Partnering with customers for packaging structure rationalization to reduce material consumption</li>
+                            </ul>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="pt-5 mt-5"></div>
+
+                <div class="row">
+                    <div class="col-sm-4 col-12">
+                        <img class="fullWidth" src="img/spenv.jpg" alt="">
+                    </div>
+                    <div class="col-sm-8 ps-5 pt-5 pt-sm-0 col-12">
+                        <h5 class="text-danger">
+                            Energy Management
+                        </h5>
+                        <br>
+                        <p class="text-black-50">
+                            Cosmo Films is committed to environmentally friendly and socially responsible manufacturing processes. Cosmo strives to establish a sustainable manufacturing model by:
+                            <br><br>
+                            <ul>
+                                <li class="mt-3 text-black-50">Continuous quality improvements and adherence to a right-first-time policy </li>
+                                <li class="mt-3 text-black-50">Close monitoring of utilities consumption to optimize their usage </li>
+                                <li class="mt-3 text-black-50">Regeneration of waste/scrap material to be used as input for production </li>
+                                <li class="mt-3 text-black-50">Recycling of paper cores and use of plastic and aluminum cores for in-house requirements, resulting in reduced use of paper core </li>
+                                <li class="mt-3 text-black-50">Partnering with customers for packaging structure rationalization to reduce material consumption</li>
                             </ul>
                         </p>
                     </div>

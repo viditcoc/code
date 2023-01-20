@@ -20,7 +20,7 @@
     <div class="col-md-12">
         <div class="container-fluid p-0">
             <!-- banner  -->
-                <div class="generalBanner" style="background-image: url(img/black.jpg); background-size: cover;">
+                <div class="generalBanner" style="background-image: url(img/redblack.jpg); background-size: cover;">
                     <div class="container">
 
                         <div class="row">
@@ -56,18 +56,19 @@
 
                             </p>
                             <br><br>
-                            <img src="img/barcode.png" alt="">
+                            <img src="img/qrcode.png" alt="">
                         </div>
                     </div>
-                    <div class="col-12 col-sm-6">
+                    <div class="alForm col-12 col-sm-6">
                         <div class="p-5">
                             <p class="text-black-50">Call us or fill out the form and one of our executives will contact you in the next 24 hours.</p>
                             <form class="myForm" action="">
-                            <div class="container">
+
+                                <div class="container mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
-                                                <input type="text" placeholder="Name*">
+                                            <div class="">    
+                                                <input type="text" placeholder="Name">
                                             </div>
                                         </div>
                                     </div>
@@ -76,18 +77,17 @@
                                 <div class="container mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Company">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-
                                 <div class="container mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="City">
                                             </div>
                                         </div>
@@ -97,13 +97,19 @@
                                 <div class="container mt-4">
                                     <div class="row">
                                         <div class="col-6 p-2">
-                                            <div class="border-bottom">    
-                                                <input type="text" placeholder="Select Country">
+                                            <div class="">    
+                                                <select class="form-control" id="exampleFormControlSelect1">
+                                                <option>Select Country</option>
+                                                <option>#</option>
+                                                </select>
                                             </div>
                                         </div>
                                         <div class="col-6 p-2">
-                                            <div class="border-bottom">    
-                                                <input type="text" placeholder="MOQ">
+                                            <div class="">    
+                                                <select class="form-control" id="exampleFormControlSelect1">
+                                                <option>MOQ</option>
+                                                <option>#</option>
+                                                </select>
                                             </div>
                                         </div>
                                     </div>
@@ -112,7 +118,7 @@
                                 <div class="container mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Email">
                                             </div>
                                         </div>
@@ -122,7 +128,7 @@
                                 <div class="container mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Phone">
                                             </div>
                                         </div>
@@ -132,8 +138,8 @@
                                 <div class="container mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
-                                                <input type="text" placeholder="Query">
+                                            <div class="">    
+                                                <textarea placeholder="Query" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                                             </div>
                                         </div>
                                     </div>

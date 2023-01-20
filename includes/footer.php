@@ -44,16 +44,16 @@
             <span class="footer-title">Packaging</span>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Films</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Rigid Packaging</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Labels</a>
+            <a class="nav-link" href="#">BOPP</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Synthetic Paper</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Cosmo Plastic</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Sunshield</a>
           </li>
         </ul>
       </div>
@@ -63,7 +63,7 @@
             <span class="footer-title">Sustainability</span>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Sustainability</a>
+            <a class="nav-link" href="sustainable-practices.php">Sustainability</a>
           </li>
         </ul>
       </div>
@@ -85,7 +85,7 @@
             <span class="footer-title">Contact us</span>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact us</a>
+            <a class="nav-link" href="contact-us.php">Contact us</a>
           </li>
         </ul>
       </div>

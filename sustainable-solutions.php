@@ -44,7 +44,7 @@
                 <div class="mt-4 pt-4"></div>
                 <div>
                     <h5 class="text-danger">Sustainable Solutions</h5>
-                    <p class="pb-3">
+                    <p class="pb-3 text-black-50">
                         Cosmo Films is a leading manufacturer of specialty films worldwide, innovating efficient & sustainable solutions that serve both, the client & the environment. Our aim is to create a 100% circular plastic economy by engineering high-quality products that are recyclable. We’re achieving this by targeting the major challenges of recyclability, energy/material consumption & deforestation in the labeling, packaging, print & lamination industries.
                         <br><br>
                         Our Flexible Packaging Films are broadly classified in the following categories:
@@ -142,35 +142,35 @@
                     <div class="col-12 col-sm-6">
                         <div class="p-5">
                             <h1 class="text-danger text-uppercase">request a callback</h1>
-                            <p class="mt-4">
+                            <p class="mt-4 text-black-50">
                                 Book an intro call to see what CosmoFilms can do for your business. Discover what this market-leading platform can do and how it can be used.
                                 <br><br>
                                 The live demo will involve one of our specialists learning about your specific needs and showing you how our platform can meet them. 
                             </p>
                             <br><br>
                             <ul>
-                                <li class="mb-3">Experience and expertise of producing BOPP films for almost four decades</li>
-                                <li class="mb-3">Widest portfolio of BOPP based packaging, labels & lamination films and synthetic paper</li>
-                                <li class="mb-3">Multiple lines for providing flexibility in operations</li>
-                                <li class="mb-3">Multiple warehousing facilities for providing just-in-time services across the globe</li>
-                                <li class="mb-3">Dedicated BOPP films R&D infrastructure</li>
-                                <li class="mb-3">Dedicated account management teams for key global accounts</li>
+                                <li class="mb-3 text-black-50">Experience and expertise of producing BOPP films for almost four decades</li>
+                                <li class="mb-3 text-black-50">Widest portfolio of BOPP based packaging, labels & lamination films and synthetic paper</li>
+                                <li class="mb-3 text-black-50">Multiple lines for providing flexibility in operations</li>
+                                <li class="mb-3 text-black-50">Multiple warehousing facilities for providing just-in-time services across the globe</li>
+                                <li class="mb-3 text-black-50">Dedicated BOPP films R&D infrastructure</li>
+                                <li class="mb-3 text-black-50">Dedicated account management teams for key global accounts</li>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-6">
+                    <div class="alForm col-12 col-sm-6">
                         <div class="p-5">
-                            <p>Call us or fill out the form and one of our executives will contact you in the next 24 hours.</p>
+                            <p class="text-black-50">Call us or fill out the form and one of our executives will contact you in the next 24 hours.</p>
                             <form class="myForm" action="">
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-6 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Name">
                                             </div>
                                         </div>
                                         <div class="col-6 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Last Name">
                                             </div>
                                         </div>
@@ -180,7 +180,7 @@
                                 <div class="container mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Email">
                                             </div>
                                         </div>
@@ -190,7 +190,7 @@
                                 <div class="container mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Designation">
                                             </div>
                                         </div>
@@ -200,7 +200,7 @@
                                 <div class="container mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Company *">
                                             </div>
                                         </div>
@@ -211,7 +211,7 @@
                                 <div class="container mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="City *">
                                             </div>
                                         </div>
@@ -221,13 +221,19 @@
                                 <div class="container mt-4">
                                     <div class="row">
                                         <div class="col-6 p-2">
-                                            <div class="border-bottom">    
-                                                <input type="text" placeholder="Contry">
+                                            <div class="">    
+                                                <select class="form-control" id="exampleFormControlSelect1">
+                                                <option>Country</option>
+                                                <option>#</option>
+                                                </select>
                                             </div>
                                         </div>
                                         <div class="col-6 p-2">
-                                            <div class="border-bottom">    
-                                                <input type="text" placeholder="MOQ">
+                                            <div class="">    
+                                                <select class="form-control" id="exampleFormControlSelect1">
+                                                <option>MOQ</option>
+                                                <option>#</option>
+                                                </select>
                                             </div>
                                         </div>
                                     </div>
@@ -236,7 +242,7 @@
                                 <div class="container mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Application">
                                             </div>
                                         </div>
@@ -246,8 +252,8 @@
                                 <div class="container mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
-                                                <input type="text" placeholder="Describe your requirement *">
+                                            <div class="">    
+                                                <textarea placeholder="Describe your requirement*" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                                             </div>
                                         </div>
                                     </div>

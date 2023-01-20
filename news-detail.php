@@ -41,7 +41,7 @@
                 </div>
 
 
-                <div class="container bg-white mt-5 newsDetail">
+                <div class="container bg-white mt-5 newsDetail brOf">
                     <div>    
                         <h1 class="text-center">Auto Expo 2023 Live Updates: Eicher unveils India's longest electric intercity coach, Eicher Pro 2049 electric 4.9 T GVW truck</h1>
                         <br><br>
@@ -66,6 +66,86 @@
                         </p>
                     </div>
                 </div>
+
+                <div class="container pt-5 mt-5 pb-2 mb-2">
+                    <h5>Related News</h5>
+                </div>
+
+                <div class="container" id="owlCb">
+                    <div class="owl-carousel owl-theme">                        
+                        <div class="item">
+                            <div class="brOf">
+                                <div class="ndCardImg">
+                                    <img class="ndCardSize" src="img/newsdetail.jpg" alt="">
+                                </div>
+                                <div class="bg-white p-4">
+                                    <p class="text-body">
+                                    Auto Expo 2023 Live Updates: Eicher unveils India's longest electric intercity coach, Eicher Pro 2049 electric 4.9 T GVW truck
+                                    <br><br>
+                                    <small class="text-black-50">12 Jan 2023</small>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="brOf">
+                                <div class="ndCardImg">
+                                    <img class="ndCardSize" src="img/newsdetail.jpg" alt="">
+                                </div>
+                                <div class="bg-white p-4">
+                                    <p class="text-body">
+                                    Auto Expo 2023 Live Updates: Eicher unveils India's longest electric intercity coach, Eicher Pro 2049 electric 4.9 T GVW truck
+                                    <br><br>
+                                    <small class="text-black-50">12 Jan 2023</small>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="brOf">
+                                <div class="ndCardImg">
+                                    <img class="ndCardSize" src="img/newsdetail.jpg" alt="">
+                                </div>
+                                <div class="bg-white p-4">
+                                    <p class="text-body">
+                                    Auto Expo 2023 Live Updates: Eicher unveils India's longest electric intercity coach, Eicher Pro 2049 electric 4.9 T GVW truck
+                                    <br><br>
+                                    <small class="text-black-50">12 Jan 2023</small>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="brOf">
+                                <div class="ndCardImg">
+                                    <img class="ndCardSize" src="img/newsdetail.jpg" alt="">
+                                </div>
+                                <div class="bg-white p-4">
+                                    <p class="text-body">
+                                    Auto Expo 2023 Live Updates: Eicher unveils India's longest electric intercity coach, Eicher Pro 2049 electric 4.9 T GVW truck
+                                    <br><br>
+                                    <small class="text-black-50">12 Jan 2023</small>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="brOf">
+                                <div class="ndCardImg">
+                                    <img class="ndCardSize" src="img/newsdetail.jpg" alt="">
+                                </div>
+                                <div class="bg-white p-4">
+                                    <p class="text-body">
+                                    Auto Expo 2023 Live Updates: Eicher unveils India's longest electric intercity coach, Eicher Pro 2049 electric 4.9 T GVW truck
+                                    <br><br>
+                                    <small class="text-black-50">12 Jan 2023</small>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
              
             
 
@@ -79,7 +159,7 @@
 
             <!-- <div class="mt-5 pt-5"></div> -->
             <div class="mt-5 pt-5"></div>            
-            <div class="mt-5 pt-5 bg-white"></div>
+            <!-- <div class="mt-5 pt-5"></div> -->
         </div>
     </div>
     <?php include 'includes/footer.php'  ?>
@@ -87,17 +167,22 @@
     <script>
     $(document).ready(function() {
 
-        $('#mainCarousel').owlCarousel({
-            animateOut: 'fadeOut',
-            animateIn: 'fadeIn',
-            loop: true,
-            margin: 0,
-            dots: false,
-            nav: false,
-            autoplay: true,
-            autoplayTimeout: 5000,
-            items: 1
-
+        $('.owl-carousel').owlCarousel({
+            loop:true,
+            margin:40,
+            dots:false,
+            nav:true,
+            responsive:{
+                0:{
+                    items:1
+                },
+                600:{
+                    items:3
+                },
+                1000:{
+                    items:2.5
+                }
+            }
         })
     });
     </script>

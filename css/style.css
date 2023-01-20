@@ -2468,7 +2468,7 @@ footer a:hover {
 }
 
 
-                /* flexible-packaging-films---start */
+                                        /* flexible-packaging-films---start */
 .fpfBannerImg{
     position: absolute;
     right: 30px;
@@ -2477,11 +2477,52 @@ footer a:hover {
 }
 
 .myForm input{
-    border: none; 
+    border: none;
+    border-bottom: solid 1px rgb(206, 206, 206);
     background-color: rgba(255, 255, 255, 0);
     width: 100%;
     
 }
+
+.myForm input:focus{
+
+    box-shadow:none;
+    outline: none;
+    border-color:blue;
+    
+    }
+
+.myForm select{
+    border: none;
+    border-bottom: solid 1px rgb(206, 206, 206);
+    background-color: rgba(255, 255, 255, 0);
+    width: 100%;
+    
+}
+
+.myForm select:focus{
+
+    box-shadow:none;
+    outline: none;
+    border-color:blue;
+    
+}
+
+.myForm textarea{
+    border: none;
+    border-bottom: solid 1px rgb(206, 206, 206);
+    background-color: rgba(255, 255, 255, 0);
+    width: 100%;
+    
+}
+
+.myForm textarea:focus{
+
+    box-shadow:none;
+    outline: none;
+    border-color:blue;
+    
+    }
 
 .myButton{
     color: rgb(242, 242, 242);
@@ -2491,14 +2532,14 @@ footer a:hover {
 }
 /* flexible-packaging-films---End */
 
-                /* Contact us  */
+                                        /* Contact us  */
 .map iframe{
     width: 100%;
 }
 /* Contact us  */
 
 
-                /* News Details  */
+                                    /* News Details  */
 
 .newsDetail{
     padding: 50px 158px;
@@ -2507,12 +2548,107 @@ footer a:hover {
 .newsDetail div div img{
     width: 100%;
 }
+
+.ndCardImg{
+    
+}
+
+.ndCardSize{
+    width: 453px;
+    height: 223px;
+}
+
+
+#owlCb .owl-nav{
+    position: absolute;
+    width: 100%;
+    top: 30%;
+}
+
+#owlCb .owl-prev{
+    position: absolute;
+    left: 6px;
+    background-color: #ffffff6e;
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    width: 40px;
+    height: 40px;
+    border: white;
+    border-radius: 50px;
+    line-height: 0;
+}
+
+#owlCb .owl-next{
+    position: absolute;
+    right: 6px;
+    background-color: #ffffff6e;
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    width: 40px;
+    height: 40px;
+    border: white;
+    border-radius: 50px;
+    line-height: 0;
+}
 /* News Details  */
 
 
-                /* News  */
+                                    /* News  */
 .newsCard div img{
     width: 100%;
     height: 378px;
 }
 
+.headerInput{
+    position: relative;
+}
+
+.srB{
+    position: absolute;
+    right: 16px;
+    top: 7px;
+    z-index: 9;
+}
+
+
+
+
+/* News  */
+.brOf{
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+
+.fullWidth{
+    width: 100%;
+}
+
+
+
+                                    /* ESG  */
+
+.esgCard{
+    border: rgb(149, 149, 149) 1px solid;
+    border-top: red 3px solid;
+    border-radius: 5px;
+    overflow: hidden;
+    height: 257px;
+}
+
+
+.navTabs .navLink.active {
+    color: red;
+    background-color: white;
+    border-color: rgba(255, 255, 255, 0);
+    border-bottom: red 2px solid;
+}
+
+
+
+.navTabs .navLink:focus, .navTabs .navLink:hover {
+    isolation: isolate;
+    /* border-color: rgba(255, 255, 255, 0); */
+}
+
+/* ESG  */

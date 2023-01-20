@@ -17,8 +17,11 @@
         </button>
 
         <div class="searchInput d-none d-sm-block" >
-          <form class="d-flex" >
-              <input class="form-control form-control-sm me-2" type="search" placeholder="Search" aria-label="Search">         
+          <form class="d-flex headerInput" >
+              <input class="form-control form-control-sm me-2" type="search" placeholder="Search" aria-label="Search">
+              <a href="search-result.php">
+                <img class="srB" src="img/icon-search.png" alt="">   
+              </a>
             </form>
             <p class="mt-2 small text-muted">India | USA | UK | Germany | Japan | Korea</p>
         </div>
@@ -56,18 +59,38 @@
           <li class="nav-item">
             <a class="nav-link" href="#">Sunshield</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Sustainability</a>
+
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false">Sustainability</a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown2">
+              <li><a class="dropdown-item" href="sustainable-practices.php">Sustainability Practices</a></li>
+              <li><a class="dropdown-item" href="esg.php">ESG Report</a></li>
+              <li><a class="dropdown-item" href="sustainable-solutions.php">Sustainable Solutions</a></li>
+            </ul>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Supplier</a>
+
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-bs-toggle="dropdown" aria-expanded="false">Supplier</a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown3">
+              <li><a class="dropdown-item" href="become-a-supplier.php">Become a supplier</a></li>
+            </ul>
           </li>
+
+         
           <li class="nav-item">
             <a class="nav-link" href="#">Global Presence</a>
           </li> 
-          <li class="nav-item">
-            <a class="nav-link" href="#">Media</a>
+          
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown4" role="button" data-bs-toggle="dropdown" aria-expanded="false">Media</a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown4">
+              <li><a class="dropdown-item" href="news.php">News</a></li>
+            </ul>
           </li>
+
+
           <li class="nav-item">
             <a class="nav-link" href="contact-us.php">Contact</a>
           </li>

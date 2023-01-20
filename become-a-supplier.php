@@ -20,7 +20,7 @@
     <div class="col-md-12">
         <div class="container-fluid p-0">
             <!-- banner  -->
-                <div class="generalBanner" style="border-bottom: 7px solid red; background-image: url(img/black.jpg); background-size: cover;">
+                <div class="generalBanner" style="background-image: url(img/redblack.jpg); background-size: cover;">
                     <div class="container">
 
                         <div class="row">
@@ -58,35 +58,35 @@
                         <div class="p-5">
                             <p class="text-black-50">Call us or fill out the form and one of our executives will contact you in the next 24 hours.</p>
                             <form class="myForm" action="">
-                            <div class="container">
+                            <div class="">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Company Name*">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="container mt-4">
+                                <div class="mt-4">
                                     <div class="row">
                                         <div class="col-6 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Name of the Contact Person*">
                                             </div>
                                         </div>
                                         <div class="col-6 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Email">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="container mt-4">
+                                <div class="mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Phone Number*">
                                             </div>
                                         </div>
@@ -94,76 +94,77 @@
                                 </div>
 
 
-                                <div class="container mt-4">
+                                <div class="mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Address*">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="container mt-4">
+                                <div class="mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Website">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="container mt-4">
+                                <div class="mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Product Category*">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="container mt-4">
+                                <div class="mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
-                                                <input type="text" placeholder="Products/Services interested to Supply/Deliver*">
+                                            <div class="">    
+                                            <textarea placeholder="Products/Services interested to Supply/Deliver*" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 
-                                <div class="container mt-4">
+                                <div class="mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
                                             <div class="">    
                                                 <label class="text-black-50 mb-2" for="exampleFormControlFile1">Product Catalogue/Technical Data Sheet/Other Details*</label>
-                                                <input type="file" class="form-control-file" id="exampleFormControlFile1">
+                                                <input style="border-bottom: 0px;" type="file" class="form-control-file" id="exampleFormControlFile1">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="container mt-4">
+                                <div class="mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
+                                            <div class="">    
                                                 <input type="text" placeholder="Annual Average Turnover">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="container mt-4">
+                                <div class="mt-4">
                                     <div class="row">
                                         <div class="col-12 p-2">
-                                            <div class="border-bottom">    
-                                                <input type="text" placeholder="Any Other Details">
+                                            <div class="">    
+                                            <textarea placeholder="Any Other Details" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                                            </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                             
 
 
                                 <br>
@@ -182,7 +183,7 @@
 
             <!-- <div class="mt-5 pt-5"></div>
             <div class="mt-5 pt-5"></div>             -->
-            <!-- <div class="mt-5 pt-5 bg-white"></div> -->
+            <div class="mt-5 pt-5 bg-white"></div>
         </div>
     </div>
     <?php include 'includes/footer.php'  ?>

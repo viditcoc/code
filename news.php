@@ -41,46 +41,22 @@
                 <div class="container mt-5">
                     <div class="row">
                         <div class="col-6">
-                            <div class="mb-4 newsCard">
-                                <div>
-                                    <img class="img-fluid" src="img/newsdetail.jpg" alt="">
+                            <a href="news-detail.php">
+                                <div class="mb-4 newsCard brOf">
+                                    <div>
+                                        <img class="img-fluid" src="img/newsdetail.jpg" alt="">
+                                    </div>
+                                    <div class="bg-white p-4">
+                                        <p class="text-body">
+                                        Auto Expo 2023 Live Updates: Eicher unveils India's longest electric intercity coach, Eicher Pro 2049 electric 4.9 T GVW truck
+                                        <br><br>
+                                        <small class="text-black-50">12 Jan 2023</small>
+                                        </p>
+                                    </div>
                                 </div>
-                                <div class="bg-white p-4">
-                                    <p>
-                                    Auto Expo 2023 Live Updates: Eicher unveils India's longest electric intercity coach, Eicher Pro 2049 electric 4.9 T GVW truck
-                                    <br><br>
-                                    <small class="text-black-50">12 Jan 2023</small>
-                                    </p>
-                                </div>
-                            </div>
+                            </a>
 
-                            <div class="mb-4 newsCard">
-                                <div>
-                                    <img class="img-fluid" src="img/truck.jpg" alt="">
-                                </div>
-                                <div class="bg-white p-4">
-                                    <p>
-                                    Auto Expo 2023 Live Updates: Eicher unveils India's longest electric intercity coach, Eicher Pro 2049 electric 4.9 T GVW truck
-                                    <br><br>
-                                    <small class="text-black-50">12 Jan 2023</small>
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="mb-4 newsCard">
-                                <div>
-                                    <img class="img-fluid" src="img/newsdetail.jpg" alt="">
-                                </div>
-                                <div class="bg-white p-4">
-                                    <p>
-                                    Auto Expo 2023 Live Updates: Eicher unveils India's longest electric intercity coach, Eicher Pro 2049 electric 4.9 T GVW truck
-                                    <br><br>
-                                    <small class="text-black-50">12 Jan 2023</small>
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="mb-4 newsCard">
+                            <div class="mb-4 newsCard brOf">
                                 <div>
                                     <img class="img-fluid" src="img/truck.jpg" alt="">
                                 </div>
@@ -93,7 +69,7 @@
                                 </div>
                             </div>
 
-                            <div class="mb-4 newsCard">
+                            <div class="mb-4 newsCard brOf">
                                 <div>
                                     <img class="img-fluid" src="img/newsdetail.jpg" alt="">
                                 </div>
@@ -106,7 +82,33 @@
                                 </div>
                             </div>
 
-                            <div class="mb-4 newsCard">
+                            <div class="mb-4 newsCard brOf">
+                                <div>
+                                    <img class="img-fluid" src="img/truck.jpg" alt="">
+                                </div>
+                                <div class="bg-white p-4">
+                                    <p>
+                                    Auto Expo 2023 Live Updates: Eicher unveils India's longest electric intercity coach, Eicher Pro 2049 electric 4.9 T GVW truck
+                                    <br><br>
+                                    <small class="text-black-50">12 Jan 2023</small>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="mb-4 newsCard brOf">
+                                <div>
+                                    <img class="img-fluid" src="img/newsdetail.jpg" alt="">
+                                </div>
+                                <div class="bg-white p-4">
+                                    <p>
+                                    Auto Expo 2023 Live Updates: Eicher unveils India's longest electric intercity coach, Eicher Pro 2049 electric 4.9 T GVW truck
+                                    <br><br>
+                                    <small class="text-black-50">12 Jan 2023</small>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="mb-4 newsCard brOf">
                                 <div>
                                     <img class="img-fluid" src="img/truck.jpg" alt="">
                                 </div>
@@ -120,7 +122,7 @@
                             </div>    
                         </div>
                         <div class="col-6" style="padding-left: 54px;">
-                            <div class="pl-5 bg-white">
+                            <div class="pl-5 bg-white brOf">
                                 <div class="p-5">
                                     <h5>
                                         Auto Expo 2023 Live Updates: Eicher unveils India's longest electric intercity coach, Eicher Pro 2049 electric 4.9 T GVW truck
@@ -178,7 +180,7 @@
 
             <!-- <div class="mt-5 pt-5"></div> -->
             <div class="mt-5 pt-5"></div>            
-            <div class="mt-5 pt-5 bg-white"></div>
+            <!-- <div class="mt-5 pt-5 bg-white"></div> -->
         </div>
     </div>
     <?php include 'includes/footer.php'  ?>
