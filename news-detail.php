@@ -23,16 +23,16 @@
     <div class="col-md-12">
         <div class="container-fluid p-0">
             <!-- banner  -->
-                <div class="generalBanner" style="background-size: cover;">
+                <div class="generalBanner" style="background-image: url(img/redblack.jpg); background-size: cover;">
                     <div class="container">
 
                         <div class="row">
                             <div class="col">
                                 <div class="mt-4 pt-4"></div>
-                                <div class="mt-5 pt-5"></div>
+                                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                                 <p>Home  / News / News Detail</p>
                                 <h2>NEWS DETAIL</h2>
-                                <div class="mt-5 pt-5"></div>
+                                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                                 <div class="mt-4 pt-4"></div>
                             </div>
                         </div>
@@ -41,7 +41,7 @@
                 </div>
 
 
-                <div class="container bg-white mt-5 newsDetail brOf">
+                <div class="container bg-white mt-sm-5 mt-0 newsDetail brOf">
                     <div>    
                         <h1 class="text-center">Auto Expo 2023 Live Updates: Eicher unveils India's longest electric intercity coach, Eicher Pro 2049 electric 4.9 T GVW truck</h1>
                         <br><br>

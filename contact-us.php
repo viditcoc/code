@@ -26,10 +26,10 @@
                         <div class="row">
                             <div class="col">
                                 <div class="mt-4 pt-4"></div>
-                                <div class="mt-5 pt-5"></div>
+                                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                                 <p>Home  / Contact us</p>
                                 <h2>CONTACT US</h2>
-                                <div class="mt-5 pt-5"></div>
+                                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                                 <div class="mt-4 pt-4"></div>
                             </div>
                         </div>
@@ -60,7 +60,7 @@
                         </div>
                     </div>
                     <div class="alForm col-12 col-sm-6">
-                        <div class="p-5">
+                        <div class="p-sm-5 p-0">
                             <p class="text-black-50">Call us or fill out the form and one of our executives will contact you in the next 24 hours.</p>
                             <form class="myForm" action="">
 
@@ -147,6 +147,7 @@
                                 <br>
                                 <button type="button" class="myButton">Submit</button>
                             </form>
+                            <div class="pt-4 mt-4 d-block d-sm-none"></div>
                         </div>
                     </div>
                 </div>
