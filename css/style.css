@@ -54,6 +54,13 @@ h6 {
     /* font-family: "Nunito", sans-serif; */
 }
 
+
+
+
+.bgClg{
+    background-color: #717173;
+}
+
 /*--------------------------------------------------------------
 # Main
 --------------------------------------------------------------*/
@@ -2267,6 +2274,13 @@ footer a:hover {
     padding: 20px 35px !important;
 }
 
+
+.newsCard div img{
+
+    height: 300px !important;
+
+}
+
 }
 
 /* ============ mob view end ============ */
@@ -2605,6 +2619,7 @@ footer a:hover {
 .newsCard div img{
     width: 100%;
     height: 378px;
+    object-fit: cover;
 }
 
 .headerInput{
@@ -2660,3 +2675,36 @@ footer a:hover {
 }
 
 /* ESG  */
+
+
+
+/* Table  */
+.production tbody tr th {
+    color: #717173;
+    text-align: center;
+    background: #dcdcdc;
+}
+
+.production tbody tr th.backred, td.backred {
+    background: #df092b;
+    color: #fff;
+}
+
+.production tbody tr td.colred {
+    color: #df092b;
+}
+
+.rotate {
+    transform: rotate(-90deg);
+    margin-top: 100px;
+    color: #df092b;
+}
+
+.production {
+    text-align: center;
+}
+
+.table-responsive {
+    /* min-height: .01%; */
+    overflow-x: scroll;
+}

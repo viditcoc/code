@@ -67,13 +67,16 @@
             
             <div class="container">
                 <div class="row d-flex flex-wrap pf-card">
-                    <div class="col-sm-8 col">
+                    <div class="col-sm-8 col-12">
                         <img src="img/pf-card1.jpg" alt="">
                         <div class="bg-dark pf-cardTitle">
                             <p>Shendra,Aurangabad,India</p>
                         </div>
                     </div>
-                    <div class="col-sm-4 col">
+
+                    <div class="mt-5 pt-5 d-block d-sm-none"></div>
+
+                    <div class="col-sm-4 col-12">
                         <img src="img/pf-card2.jpg" alt="">
                         <div class="bg-dark pf-cardTitle">
                             <p>Shendra,Aurangabad,India</p>
@@ -86,19 +89,22 @@
 
             <div class="container ">
                 <div class="row d-flex pf-card">
-                    <div class="col-4 ">
+                    <div class="col-sm-4 col-12 ">
                         <img src="img/pf-card3.jpg" alt="">
                         <div class="bg-dark pf-cardTitle">
                             <p>Waluj,Aurangabad,India</p>
                         </div>
                     </div>
-                    <div class="col-4">
+
+                    <div class="mt-5 pt-5 d-block d-sm-none"></div>
+
+                    <div class="col-sm-4 col-12">
                         <img src="img/pf-card4.jpg" alt="">
                         <div class="bg-dark pf-cardTitle">
                             <p>Asan,Korea</p>
                         </div>
                     </div>
-                    <div class="col-4">
+                    <div class="col-4 d-none d-sm-block">
                         
                     </div>
                 </div>
@@ -116,8 +122,82 @@
 
 
             <!-- Table start  -->
-            <div class="container overflow-x-scroll">
-                <img src="img/table.jpg" alt="">
+            <div class="container overflow-x-scroll table-responsive">
+                <table class="table production table-bordered ">
+                    <thead>
+                        <tr>
+                        <th colspan="8" class="text-center bg-secondary text-white">Number of lines</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                        <th rowspan="8" width="10px" class="text-uppercase">
+                            <div class="rotate">Plants</div>
+                        </th>
+                        </tr>
+                        <tr>
+                        <td></td>
+                        <th class="">BOPP</th>
+                        <th class="backred">Thermal</th>
+                        <th>Coating</th>
+                        <th class="backred">Metalizing</th>
+                        <th>CPP</th>
+                        <th>CSP</th>
+                        </tr>
+                        <tr>
+                        <td>Shendra,Aurangabad,India</td>
+                        <td>1 Line</td>
+                        <td>4 Lines</td>
+                        <td>2 Line</td>
+                        <td>1 Line</td>
+                        <td></td>
+                        <td></td>
+
+                        </tr>
+                        <tr>
+                        <td>Karjan,Vadodra,India</td>
+                        <td>3 Lines</td>
+                        <td>-</td>
+                        <td>1 Lines</td>
+                        <td>2 Line</td>
+                        <td>1 Line</td>
+                        <td>1 line</td>
+
+                        </tr>
+                        <tr>
+                        <td>Waluj,Aurangabad,India</td>
+                        <td>5 Lines</td>
+                        <td>2 Lines</td>
+                        <td>3 Lines</td>
+                        <td>1 Line</td>
+                        <td>1 Line</td>
+                        <td></td>
+
+                        </tr>
+                        <tr>
+                        <td>Asan,Korea</td>
+                        <td>-</td>
+                        <td>1 Line</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td></td>
+                        <td></td>
+
+                        </tr>
+
+                        <tr>
+
+                        <td class="backred" style="text-transform: uppercase;">Total Installed capacity</td>
+                        <td class="colred">2,00,000 TPA</td>
+                        <td class="colred">40,000 TPA</td>
+                        <td class="colred">16,000 TPA</td>
+                        <td class="colred">20,000 TPA</td>
+                        <td class="colred">9,000 TPA</td>
+                        <td class="colred">7,200 TPA</td>
+                        </tr>
+
+                    </tbody>
+                    </table>
             </div>
             <!-- Table end  -->
 
