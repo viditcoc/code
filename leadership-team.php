@@ -273,18 +273,33 @@
 
 
  <div class="modal fade" tabindex="-1" id="teamInfo"> 
-  <div class="modal-dialog">
-    <div class="modal-content">
+  <div class="modal-dialog" style="margin-left: 100px; margin-right: 100px;">
+    <div class="modal-content" style="width: 1230px;">
       <div class="modal-header">
-        <h5 class="modal-title">Modal title</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        <p>Modal body text goes here.</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <div style="padding: 50px;">
+            <div class="d-flex">
+                <img src="img/dr1.png" alt="" style="height: 269px;">
+                <div class="ps-5">
+                    <h5>Mr. Pankaj Poddar</h5>
+                    <p>
+                        Group CEO - Cosmo Films, Cosmo Ferrites, Cosmo Specialty Chemicals, and Zigly
+                        <br> Experience - Over 26 years of experience in finance, advisory and various leadership roles.
+                        <br> Education - Bachelor of Commerce (Honors) from SRCC, qualified
+                        <br> Chartered Accountant and diploma in management.
+                    </p>
+                </div>
+            </div>
+            <div class="mt-4 pt-4"></div>
+            <p>
+            Established in 1981, Cosmo Films (A Business of Cosmo First Limited) today is a global leader in speciality films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films.
+            <br><br>
+            Established in 1981, Cosmo Films (A Business of Cosmo First Limited) today is a global leader in speciality films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films.
+            <br><br>
+            Established in 1981, Cosmo Films (A Business of Cosmo First Limited) today is a global leader in speciality films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films.
+            </p>
+            <br><br>
+            <button class="py-3 px-5 border border-0 bg-dark text-white">Done</button>
+        </div>
       </div>
     </div>
   </div>
