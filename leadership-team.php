@@ -26,10 +26,10 @@
                         <div class="row">
                             <div class="col">
                                 <div class="mt-4 pt-4"></div>
-                                <div class="mt-5 pt-5"></div>
+                                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                                 <p>Home / About us / Leadership Team</p>
                                 <h2>LEADERSHIP TEAM</h2>
-                                <div class="mt-5 pt-5"></div>
+                                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                                 <div class="mt-4 pt-4"></div>
                             </div>
                         </div>
@@ -42,7 +42,7 @@
             <!-- COSMO FILMS LEADERSHIP TEAM start -->
             <div class="container">
                 <div class="mt-4 pt-4"></div>
-                <div class="mt-5 pt-5"></div>
+                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                 <div class="row d-flex flex-wrap">
                     <div class="col-11 col-sm m-3">
                         <h1>COSMO FILMS <br> LEADERSHIP TEAM</h1>
@@ -52,7 +52,7 @@
                         Established in 1981, Cosmo Films (A Business of Cosmo First Limited) today is a global leader in speciality films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films.
                         </p>
                     </div>
-                    <div class="mt-5 pt-5"></div>
+                    <div class="mt-5 pt-5 d-none d-sm-block"></div>
                     <div class="mt-4 pt-4"></div>
 
                 </div>
@@ -63,7 +63,7 @@
             <!-- Doctors team line 1 start -->
             <div class="container d-flex flex-wrap aline-item-center">
                 <div class="col-12 col-md-6 d-flex flex-wrap aline-item-center">
-                    <div class="col-12 col-md-5">
+                    <div class="col-12 col-md-5 px-5 p-sm-0 px-5 p-sm-0">
                         <img class="isize" src="img/dr1.png" alt="">
                     </div>
 
@@ -90,11 +90,13 @@
                             <a href="#" data-bs-toggle="modal" data-bs-target="#teamInfo">Read More</a>
 
                         </p>
+                        <div class="mt-5 pt-4 d-block d-sm-none"></div>
+
                     </div>
                     
                 </div>
                 <div class="col-12 col-md-6 d-flex flex-wrap aline-item-center">
-                    <div class="col-12 col-md-5">
+                    <div class="col-12 col-md-5 px-5 p-sm-0">
                         <img class="isize" src="img/dr2.png" alt="">
                     </div>
                     
@@ -117,6 +119,8 @@
                             <a href="#">Read More</a>
 
                         </p>
+                        <div class="mt-5 pt-4 d-block d-sm-none"></div>
+
                     </div>
                 </div>
             </div>
@@ -128,7 +132,7 @@
             <!-- Doctors team line 2 start -->
             <div class="container flex-wrap d-flex aline-item-center">
                 <div class="col-12 col-md-6 d-flex flex-wrap aline-item-center">
-                    <div class="col-12 col-md-5">
+                    <div class="col-12 col-md-5 px-5 p-sm-0">
                         <img class="isize" src="img/dr3.png" alt="">
                     </div>
                     
@@ -155,11 +159,13 @@
                             <a href="#">Read More</a>
 
                         </p>
+                        <div class="mt-5 pt-4 d-block d-sm-none"></div>
+
                     </div>
                     
                 </div>
                 <div class="col-12 col-md-6 d-flex flex-wrap aline-item-center">
-                    <div class="col-12 col-md-5">
+                    <div class="col-12 col-md-5 px-5 p-sm-0">
                         <img class="isize" src="img/dr4.png" alt="">
                     </div>
                     
@@ -184,6 +190,8 @@
                             <a href="#">Read More</a>
 
                         </p>
+                        <div class="mt-5 pt-4 d-block d-sm-none"></div>
+
                     </div>
                 </div>
             </div>
@@ -195,7 +203,7 @@
             <!-- Doctors team line 3 start -->
             <div class="container flex-wrap d-flex aline-item-center">
                 <div class="col-12 col-md-6 d-flex flex-wrap aline-item-center">
-                    <div class="col-12 col-md-5">
+                    <div class="col-12 col-md-5 px-5 p-sm-0">
                         <img class="isize" src="img/dr5.png" alt="">
                     </div>
                     
@@ -223,11 +231,15 @@
                             <a href="#">Read More</a>
 
                         </p>
+                        <div class="mt-5 pt-4 d-block d-sm-none"></div>
+
                     </div>
                     
                 </div>
+
+
                 <div class="col-12 col-md-6 d-flex flex-wrap aline-item-center">
-                    <div class="col-12 col-md-5">
+                    <div class="col-12 col-md-5 px-5 p-sm-0">
                         <img class="isize" src="img/dr6.png" alt="">
                     </div>
                     

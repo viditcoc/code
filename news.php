@@ -20,7 +20,7 @@
     <div class="col-md-12">
         <div class="container-fluid p-0">
             <!-- banner  -->
-                <div class="generalBanner" style="background-size: cover;">
+                <div class="generalBanner" style="background-image: url(img/redblack.jpg); background-size: cover;">
                     <div class="container">
 
                         <div class="row">

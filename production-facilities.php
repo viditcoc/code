@@ -26,10 +26,10 @@
                         <div class="row">
                             <div class="col">
                                 <div class="mt-4 pt-4"></div>
-                                <div class="mt-5 pt-5"></div>
+                                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                                 <p>Home / About us / Production Facilities</p>
                                 <h2>PRODUCTION FACILITIES</h2>
-                                <div class="mt-5 pt-5"></div>
+                                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                                 <div class="mt-4 pt-4"></div>
                             </div>
                         </div>
@@ -42,7 +42,7 @@
             <!-- Production Facilities start -->
             <div class="container">
                 <div class="mt-4 pt-4"></div>
-                <div class="mt-5 pt-5"></div>
+                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                 <div class="row d-flex flex-wrap">
                     <div class="col-11 col-sm m-3">
                         <h1>PRODUCTION <br>FACILITIES</h1>
@@ -52,7 +52,7 @@
                             Established in 1981, Cosmo Films (A Business of Cosmo First Limited) today is a global leader in speciality films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films.
                         </p>
                     </div>
-                    <div class="mt-5 pt-5"></div>
+                    <div class="mt-5 pt-5 d-none d-sm-block"></div>
                     <div class="mt-4 pt-4"></div>
 
                 </div>
@@ -66,14 +66,14 @@
             </div>
             
             <div class="container">
-                <div class="row d-flex pf-card">
-                    <div class="col-8 ">
+                <div class="row d-flex flex-wrap pf-card">
+                    <div class="col-sm-8 col">
                         <img src="img/pf-card1.jpg" alt="">
                         <div class="bg-dark pf-cardTitle">
                             <p>Shendra,Aurangabad,India</p>
                         </div>
                     </div>
-                    <div class="col-4">
+                    <div class="col-sm-4 col">
                         <img src="img/pf-card2.jpg" alt="">
                         <div class="bg-dark pf-cardTitle">
                             <p>Shendra,Aurangabad,India</p>
@@ -116,7 +116,7 @@
 
 
             <!-- Table start  -->
-            <div class="container">
+            <div class="container overflow-x-scroll">
                 <img src="img/table.jpg" alt="">
             </div>
             <!-- Table end  -->

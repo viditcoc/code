@@ -26,10 +26,10 @@
                         <div class="row">
                             <div class="col">
                                 <div class="mt-4 pt-4"></div>
-                                <div class="mt-5 pt-5"></div>
+                                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                                 <p>Home / About us / Milestone</p>
                                 <h2>MILESTONE</h2>
-                                <div class="mt-5 pt-5"></div>
+                                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                                 <div class="mt-4 pt-4"></div>
                             </div>
                         </div>
@@ -42,7 +42,7 @@
             <!-- WE ARE THE FUTURE OF packaging films start -->
             <div class="container">
                 <div class="mt-4 pt-4"></div>
-                <div class="mt-5 pt-5"></div>
+                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                 <div class="row d-flex flex-wrap">
                     <div class="col-11 col-sm m-3">
                         <h1>WE ARE THE FUTURE <br> OF PACKAGING FILMS</h1>
@@ -53,7 +53,7 @@
 
                         </p>
                     </div>
-                    <div class="mt-5 pt-5"></div>
+                    <div class="mt-5 pt-5 d-none d-sm-block"></div>
                     <div class="mt-4 pt-4"></div>
 
                 </div>

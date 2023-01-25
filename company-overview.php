@@ -25,12 +25,12 @@
 
                         <div class="row">
                             <div class="col">
-                                <div class="mt-4 pt-4"></div>
+                                <div class="mt-4 pt-4 d-none d-sm-block"></div>
                                 <div class="mt-5 pt-5"></div>
                                 <p>Home / About us / Company overview</p>
                                 <h2>Company overview</h2>
                                 <div class="mt-5 pt-5"></div>
-                                <div class="mt-4 pt-4"></div>
+                                <div class="mt-4 pt-4 d-none d-sm-block"></div>
                             </div>
                         </div>
                         
@@ -79,10 +79,10 @@
 
             <div class="container mt-5">
                 <div class="row">
-                    <div class="col">
-                        <img src="img/founder.png" alt="">
+                    <div class="col-sm col-12">
+                        <img class="img-fluid" src="img/founder.png" alt="">
                     </div>
-                    <div class="col d-flex align-items-center mt-3 mt-md-0">
+                    <div class="col-sm col-12 d-flex align-items-center mt-3 mt-md-0">
                         <div>
                         <h2 class="display-5">Founder</h2>
                         <br>
@@ -90,6 +90,7 @@
                         </div>
                     </div>
                 </div>
+                <div class="mt-2 pt-2 d-block d-sm-none"></div>
             </div>
             <!-- Founder end -->
 
@@ -101,12 +102,12 @@
 
                         <div class="row">
                             <div class="col-sm-7">
-                                <div class="mt-5 pt-5"></div>
+                                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                                 <div class="mt-5 pt-5"></div>
                                 <h1>Cosmo Today</h1>
                                 <br>
                                 <p>With manufacturing units in India & Korea, Cosmo has a BOPP manufacturing capacity of 200,000 TPA and CPP manufacturing capacity of 9,000 TPA with a sales turnover of around USD 311 Million (INR 21.63 Billion) in FY 2018-2019. Cosmo is the largest BOPP films exporter from India and the world’s largest manufacturer of thermal lamination films.</p>
-                                <div class="mt-5 pt-5"></div>
+                                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                                 <div class="mt-5 pt-5"></div>
                                 <div class="mt-2 pt-2"></div>
                             </div>
@@ -120,24 +121,27 @@
 
             <!-- Customers start -->
             <div class="container">
-                <div class="mt-4 pt-4"></div>
-                <div class="mt-5 pt-5"></div>
+                <div class="mt-4 pt-4 d-none d-sm-block"></div>
+                <div class="mt-5 pt-5 d-none d-sm-block"></div>
+                <div class="mt-3 pt-3 d-block d-sm-none"></div>
                 <div class="row">
-                    <div class="col m-3">
+                    <div class="col-sm col-11 m-3">
                         <h1>Customers</h1>
                         <br>
                         <p>
                            Apart from a dominant share in the Indian market, Cosmo exports to more than 80 countries worldwide. Cosmo’s customer base includes the leading global flexible packaging and label face stock manufacturers like Amcor, Constantia, Huhtamaki, Avery Dennison etc., 
                         </p>
                     </div>
-                    <div class="col m-3">
-                        <div class="mt-3 pt-3"></div>
-                        <br><br>
+                    <div class="col-sm col-11 m-3">
+                        <div class="mt-3 pt-3 d-none d-sm-block"></div>
+                        <div class="mt-3 pt-3 d-none d-sm-block"></div>
+                        <div class="mt-1 pt-1 d-none d-sm-block"></div>
+                        <div class="mt-1 pt-1 d-none d-sm-block"></div>
                         <p>
                            Which service brands like Pepsico, Coca Cola, Unilever, P&G, Britannia, Parle, CP, Reckitt Benckiser, Nestle, Mars etc. Cosmo also has an extensive network of channel partners across the world for distribution of its range of lamination films.
                         </p>
                     </div>
-                    <div class="mt-5 pt-5"></div>
+                    <div class="mt-5 pt-5 d-none d-sm-block"></div>
                     <div class="mt-4 pt-4"></div>
 
                 </div>
@@ -152,12 +156,12 @@
                         <div class="row">
                             <div class="col-sm-7">
                                 <div class="mt-4 pt-4"></div>
-                                <div class="mt-5 pt-5"></div>
+                                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                                 <h1>R&D</h1>
                                 <br>
                                 <p>Cosmo Films has a highly qualified and government recognized R&D team, providing customized innovations for its customers. Cosmo owns multiple patents in India (6) and US (3).</p>
-                                <div class="mt-5 pt-5"></div>
-                                <div class="mt-5 pt-5"></div>
+                                <div class="mt-5 pt-5 d-none d-sm-block"></div>
+                                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                                 <div class="mt-5 pt-5"></div>
                             </div>
                         </div>
@@ -171,7 +175,7 @@
             <!-- Certifications, Awards & Recognition start -->
             <div class="container">
                 <div class="mt-4 pt-4"></div>
-                <div class="mt-5 pt-5"></div>
+                <div class="mt-5 pt-5 d-none d-sm-block"></div>
                 <div class="row">
                     <div class="col m-3">
                         <h1>Certifications</h1>
@@ -195,7 +199,7 @@
             <!-- Certifications, Awards & Recognition end -->
 
             
-            <div class="mt-5 pt-5"></div>
+            <div class="mt-5 pt-5 d-none d-sm-block"></div>
         </div>
     </div>
     <?php include 'includes/footer.php'  ?>
