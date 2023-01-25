@@ -2708,3 +2708,17 @@ footer a:hover {
     /* min-height: .01%; */
     overflow-x: scroll;
 }
+
+.block-ellipsis {
+    display: block;
+    display: -webkit-box;
+    max-width: 100%;
+    height: 268px;
+    margin: 0 auto;
+    /* font-size: 14px; */
+    /* line-height: 1; */
+    -webkit-line-clamp: 11;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
