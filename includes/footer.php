@@ -32,7 +32,7 @@
             <a class="nav-link" href="#">Certifications & Recognitions</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Why us</a>
+            <a class="nav-link" href="why-us.php">Why us</a>
           </li>
         </ul>
       </div>

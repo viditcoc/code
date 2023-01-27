@@ -2674,6 +2674,24 @@ footer a:hover {
     /* border-color: rgba(255, 255, 255, 0); */
 }
 
+.ESGnev{
+    font-size: 20px;
+    padding-bottom: 13px;
+}
+
+.ESGnev a{
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #828282;
+    cursor: pointer;
+
+}
+
+.esgLI2{
+    margin: 0 15px;
+}
+
 /* ESG  */
 
 

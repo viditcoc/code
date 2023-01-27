@@ -54,17 +54,19 @@
                 </div>
             </div>
 
+            <div class="pt-5 mt-5 d-none d-sm-block"></div>
+
 
             
-            <div class="container border-bottom">
+            <div class="container border-bottom ESGnev">
                 <ul class="nav navTabs d-flex justify-content-center" id="myTab" role="tablist">
-                    <li class="nav-item" role="presentation">
+                    <li class="nav-item esgLI1" role="presentation">
                         <a class="navLink active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane"  role="tab" aria-controls="home-tab-pane" aria-selected="true">ENVIRONMENT</a>
                     </li>
-                    <li class="nav-item" role="presentation">
+                    <li class="nav-item esgLI2" role="presentation">
                         <a class="navLink" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane"  role="tab" aria-controls="profile-tab-pane" aria-selected="false">SOCIAL</a>
                     </li>
-                    <li class="nav-item" role="presentation">
+                    <li class="nav-item esgLI3" role="presentation">
                         <a class="navLink" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact-tab-pane"  role="tab" aria-controls="contact-tab-pane" aria-selected="false">GOVERNANCE</a>
                     </li>
                 </ul>
