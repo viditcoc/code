@@ -6,7 +6,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
         </div>
-      <a class="navbar-brand" href="index.php">
+      <a class="navbar-brand my-2" href="index.php">
           <img src="img/cosmo_logo.svg" alt="">
       </a>
       <div id="searchSite" class="">        

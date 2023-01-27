@@ -41,116 +41,117 @@
             
 
             <div class="container-flued bg-white mt-5">
-                <div class="container row d-flex">
-                    <div class="col-12 col-sm-6">
-                        <div class="p-5">
-                            <h1 class="text-danger text-uppercase">Cosmo Films (A Business of Cosmo First Limited)</h1>
-                            <p class="mt-4 text-black-50">
-                                1008, DLF Tower - A, Jasola District Centre, <br>
-                                New Delhi - 110 025, India <br>
-                                Phone : + 91-11-49 49 49 49 <br>
-                                Fax : + 91-11-49 49 49 50 <br>
-                                Email : enquiry@cosmofilms.com
-
-
-
-                            </p>
-                            <br><br>
-                            <img src="img/qrcode.png" alt="">
-                        </div>
-                    </div>
-                    <div class="alForm col-12 col-sm-6">
-                        <div class="p-sm-5 p-0">
-                            <p class="text-black-50">Call us or fill out the form and one of our executives will contact you in the next 24 hours.</p>
-                            <form class="myForm" action="">
-
-                                <div class="container mt-4">
-                                    <div class="row">
-                                        <div class="col-12 p-2">
-                                            <div class="">    
-                                                <input type="text" placeholder="Name">
-                                            </div>
+                <div class="container">
+                    <div class=" row d-flex">
+                                    <div class="col-12 col-sm-6">
+                                        <div class="p-5">
+                                            <h1 class="text-danger text-uppercase">Cosmo Films (A Business of Cosmo First Limited)</h1>
+                                            <p class="mt-4 text-black-50">
+                                                1008, DLF Tower - A, Jasola District Centre, <br>
+                                                New Delhi - 110 025, India <br>
+                                                Phone : + 91-11-49 49 49 49 <br>
+                                                Fax : + 91-11-49 49 49 50 <br>
+                                                Email : enquiry@cosmofilms.com
+                
+                
+                
+                                            </p>
+                                            <br><br>
+                                            <img src="img/qrcode.png" alt="">
                                         </div>
                                     </div>
-                                </div>
-
-                                <div class="container mt-4">
-                                    <div class="row">
-                                        <div class="col-12 p-2">
-                                            <div class="">    
-                                                <input type="text" placeholder="Company">
-                                            </div>
+                                    <div class="alForm col-12 col-sm-6">
+                                        <div class="p-sm-5 p-0">
+                                            <p class="text-black-50">Call us or fill out the form and one of our executives will contact you in the next 24 hours.</p>
+                                            <form class="myForm" action="">
+                
+                                                <div class="container mt-4">
+                                                    <div class="row">
+                                                        <div class="col-12 p-2">
+                                                            <div class="">    
+                                                                <input type="text" placeholder="Name">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                
+                                                <div class="container mt-4">
+                                                    <div class="row">
+                                                        <div class="col-12 p-2">
+                                                            <div class="">    
+                                                                <input type="text" placeholder="Company">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                
+                                                <div class="container mt-4">
+                                                    <div class="row">
+                                                        <div class="col-12 p-2">
+                                                            <div class="">    
+                                                                <input type="text" placeholder="City">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                
+                                                <div class="container mt-4">
+                                                    <div class="row">
+                                                        <div class="col-6 p-2">
+                                                            <div class="">    
+                                                                <select class="form-control" id="exampleFormControlSelect1">
+                                                                <option>Select Country</option>
+                                                                <option>#</option>
+                                                                </select>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-6 p-2">
+                                                            <div class="">    
+                                                                <select class="form-control" id="exampleFormControlSelect1">
+                                                                <option>MOQ</option>
+                                                                <option>#</option>
+                                                                </select>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                
+                                                <div class="container mt-4">
+                                                    <div class="row">
+                                                        <div class="col-12 p-2">
+                                                            <div class="">    
+                                                                <input type="text" placeholder="Email">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                
+                                                <div class="container mt-4">
+                                                    <div class="row">
+                                                        <div class="col-12 p-2">
+                                                            <div class="">    
+                                                                <input type="text" placeholder="Phone">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                
+                                                <div class="container mt-4">
+                                                    <div class="row">
+                                                        <div class="col-12 p-2">
+                                                            <div class="">    
+                                                                <textarea placeholder="Query" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <br>
+                                                <button type="button" class="myButton">Submit</button>
+                                            </form>
+                                            <div class="pt-4 mt-4 d-block d-sm-none"></div>
                                         </div>
                                     </div>
-                                </div>
-
-                                <div class="container mt-4">
-                                    <div class="row">
-                                        <div class="col-12 p-2">
-                                            <div class="">    
-                                                <input type="text" placeholder="City">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="container mt-4">
-                                    <div class="row">
-                                        <div class="col-6 p-2">
-                                            <div class="">    
-                                                <select class="form-control" id="exampleFormControlSelect1">
-                                                <option>Select Country</option>
-                                                <option>#</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="col-6 p-2">
-                                            <div class="">    
-                                                <select class="form-control" id="exampleFormControlSelect1">
-                                                <option>MOQ</option>
-                                                <option>#</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="container mt-4">
-                                    <div class="row">
-                                        <div class="col-12 p-2">
-                                            <div class="">    
-                                                <input type="text" placeholder="Email">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="container mt-4">
-                                    <div class="row">
-                                        <div class="col-12 p-2">
-                                            <div class="">    
-                                                <input type="text" placeholder="Phone">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="container mt-4">
-                                    <div class="row">
-                                        <div class="col-12 p-2">
-                                            <div class="">    
-                                                <textarea placeholder="Query" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <br>
-                                <button type="button" class="myButton">Submit</button>
-                            </form>
-                            <div class="pt-4 mt-4 d-block d-sm-none"></div>
-                        </div>
-                    </div>
-                </div>
+                                </div></div>
             </div>
             
             <div class="container-flued map" style="border-bottom: 7px solid red;">
