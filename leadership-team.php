@@ -69,7 +69,7 @@
 
                     <div class="pt-4 pt-sm-0 col-12 col-md-7 pWrap">
                         <h4>Mr. Pankaj Poddar</h4>
-                        <p>
+                        <p class="block-ellipsis">
                             Group CEO - Cosmo Films, 
                             Cosmo Ferrites, Cosmo 
                             Specialty Chemicals, and 
@@ -87,9 +87,8 @@
                             Accountant and diploma in
                             management.
                             <br>
-                            <a href="#" data-bs-toggle="modal" data-bs-target="#teamInfo">Read More</a>
-
                         </p>
+                        <a href="#" data-bs-toggle="modal" data-bs-target="#teamInfo">Read More</a>
                         <div class="mt-5 pt-4 d-block d-sm-none"></div>
 
                     </div>
@@ -102,7 +101,7 @@
                     
                     <div class="pt-4 pt-sm-0 col-12 col-md-7 pWrap">
                         <h4>Mr. Sanjay Chincholikar</h4>
-                        <p>
+                        <p class="block-ellipsis">
                             Head - Operations (India
                             Films Business)
                             <br><br>
@@ -115,10 +114,10 @@
                             and Bachelor of Commerce 
                             graduate. A post graduate in 
                             Sales and Marketing.
-                            <br><br><br>
-                            <a href="#">Read More</a>
-
+                            <br>
+                            
                         </p>
+                        <a href="#">Read More</a>
                         <div class="mt-5 pt-4 d-block d-sm-none"></div>
 
                     </div>
@@ -138,7 +137,7 @@
                     
                     <div class="pt-4 pt-sm-0 col-12 col-md-7 pWrap">
                         <h4>Mr. Neeraj Jain</h4>
-                        <p>
+                        <p class="block-ellipsis">
                             Group Chief Financial 
                             Officer
                             <br><br>
@@ -154,11 +153,11 @@
                              Commerce from
                             DU and a qualified Chartered
                             Accountant.
-                            <br><br><br>
+                            <br>
 
-                            <a href="#">Read More</a>
-
+                            
                         </p>
+                        <a href="#">Read More</a>
                         <div class="mt-5 pt-4 d-block d-sm-none"></div>
 
                     </div>
@@ -171,7 +170,7 @@
                     
                     <div class="pt-4 pt-sm-0 col-12 col-md-7 pWrap">
                         <h4>Mr. Kulbhushan Malik</h4>
-                        <p>
+                        <p class="block-ellipsis">
                             Global Business Head -
                             Cosmo Films
                             <br>
@@ -187,9 +186,9 @@
                             Accountant and holds a diploma
                             in management.<br>
                             <br>                            
-                            <a href="#">Read More</a>
-
+                            
                         </p>
+                        <a href="#">Read More</a>
                         <div class="mt-5 pt-4 d-block d-sm-none"></div>
 
                     </div>
@@ -209,7 +208,7 @@
                     
                     <div class="pt-4 pt-sm-0 col-12 col-md-7 pWrap">
                         <h4>Justin Glass</h4>
-                        <p>
+                        <p class="block-ellipsis">
                             President North America -
                             Cosmo Films
                             <br><br>
@@ -227,10 +226,9 @@
                             packaging, pharmaceutical &
                             medical packaging verticals.
                             <br>
-                            <br>
-                            <a href="#">Read More</a>
-
+                            
                         </p>
+                        <a href="#">Read More</a>
                         <div class="mt-5 pt-4 d-block d-sm-none"></div>
 
                     </div>
@@ -245,7 +243,7 @@
                     
                     <div class="pt-4 pt-sm-0 col-12 col-md-7 pWrap">
                         <h4>Ms. Ashima Roona</h4>
-                        <p>
+                        <p class="block-ellipsis">
                             Vice President - Human
                             Resources
                             <br>
@@ -256,10 +254,10 @@
                             Education - MBA (PGDPM) from
                             XISS, Ranchi and graduate from
                             Jesus and Mary College, DU.
-                            <br><br><br><br>
-                            <a href="#">Read More</a>
-
+                            <br>
+                            
                         </p>
+                        <a href="#">Read More</a>
                     </div>
                 </div>
             </div>
@@ -281,22 +279,25 @@
                 <img src="img/dr1.png" alt="" style="height: 269px;">
                 <div class="ps-5">
                     <h5>Mr. Pankaj Poddar</h5>
-                    <p>
-                        Group CEO - Cosmo Films, Cosmo Ferrites, Cosmo Specialty Chemicals, and Zigly
-                        <br> Experience - Over 26 years of experience in finance, advisory and various leadership roles.
-                        <br> Education - Bachelor of Commerce (Honors) from SRCC, qualified
-                        <br> Chartered Accountant and diploma in management.
-                    </p>
+                    <div >
+                        <p>
+                            Group CEO - Cosmo Films, Cosmo Ferrites, Cosmo Specialty Chemicals, and Zigly
+                            <br> Experience - Over 26 years of experience in finance, advisory and various leadership roles.
+                            <br> Education - Bachelor of Commerce (Honors) from SRCC, qualified
+                            <br> Chartered Accountant and diploma in management.
+                        </p>
+                    </div>
                 </div>
             </div>
             <div class="mt-4 pt-4"></div>
-            <p>
-            Established in 1981, Cosmo Films (A Business of Cosmo First Limited) today is a global leader in speciality films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films.
-            <br><br>
-            Established in 1981, Cosmo Films (A Business of Cosmo First Limited) today is a global leader in speciality films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films.
-            <br><br>
-            Established in 1981, Cosmo Films (A Business of Cosmo First Limited) today is a global leader in speciality films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films.
-            </p>
+            
+                <p>
+                Established in 1981, Cosmo Films (A Business of Cosmo First Limited) today is a global leader in speciality films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films.
+                <br><br>
+                Established in 1981, Cosmo Films (A Business of Cosmo First Limited) today is a global leader in speciality films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films.
+                <br><br>
+                Established in 1981, Cosmo Films (A Business of Cosmo First Limited) today is a global leader in speciality films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films.
+                </p>
             <br><br>
             <button class="py-3 px-5 border border-0 bg-dark text-white" data-bs-dismiss="modal">Done</button>
         </div>
